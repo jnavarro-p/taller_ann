@@ -1,4 +1,4 @@
-# Introducción a las redes neuronales artificiales utilizando datos de cáncer de mama
+# Taller redes neuronales
 Notebook utilizado en el taller "Introducción a las redes neuronales artificiales utilizando datos de cáncer de mama".
 
 # Fuente
